@@ -1,4 +1,7 @@
 # EX-NO-11-ELLIPTIC-CURVE-CRYPTOGRAPHY-ECC
+## NAME: J.PREM PRASANTH
+
+## REGISTER NUMBER:2305001028
 
 ## Aim:
 To Implement ELLIPTIC CURVE CRYPTOGRAPHY(ECC)
@@ -99,6 +102,7 @@ return 0;
 
 
 ## Output:
+<img width="1011" height="459" alt="image" src="https://github.com/user-attachments/assets/15c7fbe3-893b-478f-9d11-090e5f638620" />
 
 
 
